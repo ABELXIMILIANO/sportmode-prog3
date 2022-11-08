@@ -15,4 +15,5 @@ public class ProductoDTO {
     private String talle;
     private String color;
     private Categoria categoria;
+    private String imagenIlustracion;
 }
